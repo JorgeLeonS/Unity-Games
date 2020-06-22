@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: 6bcbd91f2a9e1a341894526e6558ba3c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bovenkaak
+    100002: draak
+    100004: //RootNode
+    100006: heup
+    100008: hoofd
+    100010: joint10
+    100012: kanon
+    100014: keel1
+    100016: keel2
+    100018: keel3
+    100020: keel4
+    100022: L_arm1
+    100024: L_arm2
+    100026: L_arm3
+    100028: L_arm4
+    100030: L_arm5
+    100032: L_arm6
+    100034: L_bovenbeen
+    100036: L_onderbeen
+    100038: L_poot1
+    100040: L_poot2
+    100042: L_poot3
+    100044: L_vleugel1
+    100046: L_vleugel2
+    100048: L_vleugel3
+    100050: L_vleugel4
+    100052: L_vleugelBase
+    100054: L_vleugelEnd1
+    100056: L_vleugelEnd2
+    100058: nek1
+    100060: nek2
+    100062: nek3
+    100064: nek4
+    100066: onderkaak
+    100068: R_arm1
+    100070: R_arm2
+    100072: R_arm3
+    100074: R_arm4
+    100076: R_arm5
+    100078: R_arm6
+    100080: R_bovenbeen
+    100082: R_onderbeen
+    100084: R_poot1
+    100086: R_poot2
+    100088: R_poot3
+    100090: R_vleugel1
+    100092: R_vleugel2
+    100094: R_vleugel3
+    100096: R_vleugel4
+    100098: R_vleugelBase
+    100100: R_vleugelEnd1
+    100102: R_vleugelEnd2
+    100104: root
+    100106: rug0
+    100108: rug1
+    100110: rug2
+    100112: shoulders
+    100114: staart1
+    100116: staart2
+    100118: staart3
+    100120: staart4
+    100122: staart5
+    100124: staart6
+    100126: staart7
+    400000: bovenkaak
+    400002: draak
+    400004: //RootNode
+    400006: heup
+    400008: hoofd
+    400010: joint10
+    400012: kanon
+    400014: keel1
+    400016: keel2
+    400018: keel3
+    400020: keel4
+    400022: L_arm1
+    400024: L_arm2
+    400026: L_arm3
+    400028: L_arm4
+    400030: L_arm5
+    400032: L_arm6
+    400034: L_bovenbeen
+    400036: L_onderbeen
+    400038: L_poot1
+    400040: L_poot2
+    400042: L_poot3
+    400044: L_vleugel1
+    400046: L_vleugel2
+    400048: L_vleugel3
+    400050: L_vleugel4
+    400052: L_vleugelBase
+    400054: L_vleugelEnd1
+    400056: L_vleugelEnd2
+    400058: nek1
+    400060: nek2
+    400062: nek3
+    400064: nek4
+    400066: onderkaak
+    400068: R_arm1
+    400070: R_arm2
+    400072: R_arm3
+    400074: R_arm4
+    400076: R_arm5
+    400078: R_arm6
+    400080: R_bovenbeen
+    400082: R_onderbeen
+    400084: R_poot1
+    400086: R_poot2
+    400088: R_poot3
+    400090: R_vleugel1
+    400092: R_vleugel2
+    400094: R_vleugel3
+    400096: R_vleugel4
+    400098: R_vleugelBase
+    400100: R_vleugelEnd1
+    400102: R_vleugelEnd2
+    400104: root
+    400106: rug0
+    400108: rug1
+    400110: rug2
+    400112: shoulders
+    400114: staart1
+    400116: staart2
+    400118: staart3
+    400120: staart4
+    400122: staart5
+    400124: staart6
+    400126: staart7
+    2100000: phong2
+    4300000: draak
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: draak
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 5
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

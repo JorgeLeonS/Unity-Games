@@ -1,0 +1,3092 @@
+fileFormatVersion: 2
+guid: b1389ba7c77d78e4dbecd4281e51b5e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Elvis_FaceAnimMap_0
+  - first:
+      213: 21300002
+    second: Elvis_FaceAnimMap_1
+  - first:
+      213: 21300004
+    second: Elvis_FaceAnimMap_2
+  - first:
+      213: 21300006
+    second: Elvis_FaceAnimMap_3
+  - first:
+      213: 21300008
+    second: Elvis_FaceAnimMap_4
+  - first:
+      213: 21300010
+    second: Elvis_FaceAnimMap_5
+  - first:
+      213: 21300012
+    second: Elvis_FaceAnimMap_6
+  - first:
+      213: 21300014
+    second: Elvis_FaceAnimMap_7
+  - first:
+      213: 21300016
+    second: Elvis_FaceAnimMap_8
+  - first:
+      213: 21300018
+    second: Elvis_FaceAnimMap_9
+  - first:
+      213: 21300020
+    second: Elvis_FaceAnimMap_10
+  - first:
+      213: 21300022
+    second: Elvis_FaceAnimMap_11
+  - first:
+      213: 21300024
+    second: Elvis_FaceAnimMap_12
+  - first:
+      213: 21300026
+    second: Elvis_FaceAnimMap_13
+  - first:
+      213: 21300028
+    second: Elvis_FaceAnimMap_14
+  - first:
+      213: 21300030
+    second: Elvis_FaceAnimMap_15
+  - first:
+      213: 21300032
+    second: Elvis_FaceAnimMap_16
+  - first:
+      213: 21300034
+    second: Elvis_FaceAnimMap_17
+  - first:
+      213: 21300036
+    second: Elvis_FaceAnimMap_18
+  - first:
+      213: 21300038
+    second: Elvis_FaceAnimMap_19
+  - first:
+      213: 21300040
+    second: Elvis_FaceAnimMap_20
+  - first:
+      213: 21300042
+    second: Elvis_FaceAnimMap_21
+  - first:
+      213: 21300044
+    second: Elvis_FaceAnimMap_22
+  - first:
+      213: 21300046
+    second: Elvis_FaceAnimMap_23
+  - first:
+      213: 21300048
+    second: Elvis_FaceAnimMap_24
+  - first:
+      213: 21300050
+    second: Elvis_FaceAnimMap_25
+  - first:
+      213: 21300052
+    second: Elvis_FaceAnimMap_26
+  - first:
+      213: 21300054
+    second: Elvis_FaceAnimMap_27
+  - first:
+      213: 21300056
+    second: Elvis_FaceAnimMap_28
+  - first:
+      213: 21300058
+    second: Elvis_FaceAnimMap_29
+  - first:
+      213: 21300060
+    second: Elvis_FaceAnimMap_30
+  - first:
+      213: 21300062
+    second: Elvis_FaceAnimMap_31
+  - first:
+      213: 21300064
+    second: Elvis_FaceAnimMap_32
+  - first:
+      213: 21300066
+    second: Elvis_FaceAnimMap_33
+  - first:
+      213: 21300068
+    second: Elvis_FaceAnimMap_34
+  - first:
+      213: 21300070
+    second: Elvis_FaceAnimMap_35
+  - first:
+      213: 21300072
+    second: Elvis_FaceAnimMap_36
+  - first:
+      213: 21300074
+    second: Elvis_FaceAnimMap_37
+  - first:
+      213: 21300076
+    second: Elvis_FaceAnimMap_38
+  - first:
+      213: 21300078
+    second: Elvis_FaceAnimMap_39
+  - first:
+      213: 21300080
+    second: Elvis_FaceAnimMap_40
+  - first:
+      213: 21300082
+    second: Elvis_FaceAnimMap_41
+  - first:
+      213: 21300084
+    second: Elvis_FaceAnimMap_42
+  - first:
+      213: 21300086
+    second: Elvis_FaceAnimMap_43
+  - first:
+      213: 21300088
+    second: Elvis_FaceAnimMap_44
+  - first:
+      213: 21300090
+    second: Elvis_FaceAnimMap_45
+  - first:
+      213: 21300092
+    second: Elvis_FaceAnimMap_46
+  - first:
+      213: 21300094
+    second: Elvis_FaceAnimMap_47
+  - first:
+      213: 21300096
+    second: Elvis_FaceAnimMap_48
+  - first:
+      213: 21300098
+    second: Elvis_FaceAnimMap_49
+  - first:
+      213: 21300100
+    second: Elvis_FaceAnimMap_50
+  - first:
+      213: 21300102
+    second: Elvis_FaceAnimMap_51
+  - first:
+      213: 21300104
+    second: Elvis_FaceAnimMap_52
+  - first:
+      213: 21300106
+    second: Elvis_FaceAnimMap_53
+  - first:
+      213: 21300108
+    second: Elvis_FaceAnimMap_54
+  - first:
+      213: 21300110
+    second: Elvis_FaceAnimMap_55
+  - first:
+      213: 21300112
+    second: Elvis_FaceAnimMap_56
+  - first:
+      213: 21300114
+    second: Elvis_FaceAnimMap_57
+  - first:
+      213: 21300116
+    second: Elvis_FaceAnimMap_58
+  - first:
+      213: 21300118
+    second: Elvis_FaceAnimMap_59
+  - first:
+      213: 21300120
+    second: Elvis_FaceAnimMap_60
+  - first:
+      213: 21300122
+    second: Elvis_FaceAnimMap_61
+  - first:
+      213: 21300124
+    second: Elvis_FaceAnimMap_62
+  - first:
+      213: 21300126
+    second: Elvis_FaceAnimMap_63
+  - first:
+      213: 21300128
+    second: Elvis_FaceAnimMap_64
+  - first:
+      213: 21300130
+    second: Elvis_FaceAnimMap_65
+  - first:
+      213: 21300132
+    second: Elvis_FaceAnimMap_66
+  - first:
+      213: 21300134
+    second: Elvis_FaceAnimMap_67
+  - first:
+      213: 21300136
+    second: Elvis_FaceAnimMap_68
+  - first:
+      213: 21300138
+    second: Elvis_FaceAnimMap_69
+  - first:
+      213: 21300140
+    second: Elvis_FaceAnimMap_70
+  - first:
+      213: 21300142
+    second: Elvis_FaceAnimMap_71
+  - first:
+      213: 21300144
+    second: Elvis_FaceAnimMap_72
+  - first:
+      213: 21300146
+    second: Elvis_FaceAnimMap_73
+  - first:
+      213: 21300148
+    second: Elvis_FaceAnimMap_74
+  - first:
+      213: 21300150
+    second: Elvis_FaceAnimMap_75
+  - first:
+      213: 21300152
+    second: Elvis_FaceAnimMap_76
+  - first:
+      213: 21300154
+    second: Elvis_FaceAnimMap_77
+  - first:
+      213: 21300156
+    second: Elvis_FaceAnimMap_78
+  - first:
+      213: 21300158
+    second: Elvis_FaceAnimMap_79
+  - first:
+      213: 21300160
+    second: Elvis_FaceAnimMap_80
+  - first:
+      213: 21300162
+    second: Elvis_FaceAnimMap_81
+  - first:
+      213: 21300164
+    second: Elvis_FaceAnimMap_82
+  - first:
+      213: 21300166
+    second: Elvis_FaceAnimMap_83
+  - first:
+      213: 21300168
+    second: Elvis_FaceAnimMap_84
+  - first:
+      213: 21300170
+    second: Elvis_FaceAnimMap_85
+  - first:
+      213: 21300172
+    second: Elvis_FaceAnimMap_86
+  - first:
+      213: 21300174
+    second: Elvis_FaceAnimMap_87
+  - first:
+      213: 21300176
+    second: Elvis_FaceAnimMap_88
+  - first:
+      213: 21300178
+    second: Elvis_FaceAnimMap_89
+  - first:
+      213: 21300180
+    second: Elvis_FaceAnimMap_90
+  - first:
+      213: 21300182
+    second: Elvis_FaceAnimMap_91
+  - first:
+      213: 21300184
+    second: Elvis_FaceAnimMap_92
+  - first:
+      213: 21300186
+    second: Elvis_FaceAnimMap_93
+  - first:
+      213: 21300188
+    second: Elvis_FaceAnimMap_94
+  - first:
+      213: 21300190
+    second: Elvis_FaceAnimMap_95
+  - first:
+      213: 21300192
+    second: Elvis_FaceAnimMap_96
+  - first:
+      213: 21300194
+    second: Elvis_FaceAnimMap_97
+  - first:
+      213: 21300196
+    second: Elvis_FaceAnimMap_98
+  - first:
+      213: 21300198
+    second: Elvis_FaceAnimMap_99
+  - first:
+      213: 21300200
+    second: Elvis_FaceAnimMap_100
+  - first:
+      213: 21300202
+    second: Elvis_FaceAnimMap_101
+  - first:
+      213: 21300204
+    second: Elvis_FaceAnimMap_102
+  - first:
+      213: 21300206
+    second: Elvis_FaceAnimMap_103
+  - first:
+      213: 21300208
+    second: Elvis_FaceAnimMap_104
+  - first:
+      213: 21300210
+    second: Elvis_FaceAnimMap_105
+  - first:
+      213: 21300212
+    second: Elvis_FaceAnimMap_106
+  - first:
+      213: 21300214
+    second: Elvis_FaceAnimMap_107
+  - first:
+      213: 21300216
+    second: Elvis_FaceAnimMap_108
+  - first:
+      213: 21300218
+    second: Elvis_FaceAnimMap_109
+  - first:
+      213: 21300220
+    second: Elvis_FaceAnimMap_110
+  - first:
+      213: 21300222
+    second: Elvis_FaceAnimMap_111
+  - first:
+      213: 21300224
+    second: Elvis_FaceAnimMap_112
+  - first:
+      213: 21300226
+    second: Elvis_FaceAnimMap_113
+  - first:
+      213: 21300228
+    second: Elvis_FaceAnimMap_114
+  - first:
+      213: 21300230
+    second: Elvis_FaceAnimMap_115
+  - first:
+      213: 21300232
+    second: Elvis_FaceAnimMap_116
+  - first:
+      213: 21300234
+    second: Elvis_FaceAnimMap_117
+  - first:
+      213: 21300236
+    second: Elvis_FaceAnimMap_118
+  - first:
+      213: 21300238
+    second: Elvis_FaceAnimMap_119
+  - first:
+      213: 21300240
+    second: Elvis_FaceAnimMap_120
+  - first:
+      213: 21300242
+    second: Elvis_FaceAnimMap_121
+  - first:
+      213: 21300244
+    second: Elvis_FaceAnimMap_122
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1936
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b74704c8f90a744ac6f39934971bbc
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1936
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01818da6e46e1fa468a20ea12e319b49
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1944
+        width: 99
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add1134c308669745a002d50621b2e0a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_3
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1944
+        width: 99
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee81c338e718474ebe34dbbda68c410
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_4
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1961
+        width: 71
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313be91691b887841919d1865f839781
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_5
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1972
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f4d42da2caf7243881314d224e7deb
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_6
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1952
+        width: 79
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e228e634221de347a215bb27c3b103e
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_7
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1949
+        width: 104
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c1d2f4be8c448429b9938bce8f0657
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_8
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1930
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909cc62684924bb4ca1a9d5addc4891f
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_9
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1930
+        width: 98
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6f72936e0a9ee41ad9229d556bb732
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_10
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1962
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c159c94edb2a1104499c1a1cc53afd4c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_11
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1958
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a580592b668a44ca787a1b8ba0993c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_12
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1920
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02263b06d545c934bb69a39c9d0304b1
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_13
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1922
+        width: 57
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7e4eb422bb6fa4abd0514b00cfe7a8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_14
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1867
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fb027413630d14f86a21a7057c2189
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1732
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919447fb19591a845852b0503dc6dc20
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_16
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1731
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276409a7d2b65354e8210853342f40bb
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_17
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1740
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3df6bd159d7cd45b203ef2a59c20cd
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_18
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1739
+        width: 100
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2e1b80bcf6f547b6b851d340c4369
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_19
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1737
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7b5946080aff458fcdd2fb9dbf5dd
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_20
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1731
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd29451a797de447aa79fdb0fcbe9ad
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_21
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1767
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84611f8bea4b44c48a83f2999a16b953
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_22
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1723
+        width: 76
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddf8f9ee89e99a4386e30e62064adb8
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_23
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1756
+        width: 85
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae03063abb254c458ce6b07b4046037
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_24
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1750
+        width: 103
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a17678cfe0ad1428db5897e8644198
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_25
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1747
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f3fd49f4bec234f80bebaf6a78ac89
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_26
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1668
+        width: 105
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fc50d09c727f347b3799f4c96e27b2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1527
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eee9a83c9722ae4083be1295a249f26
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_28
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1524
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c01ce5408adbc469315bff8748e413
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_29
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1527
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca57c6d0f09bfca49a1d9f910a6a2344
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_30
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1524
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6aae4157b11bc469ff4dbe4ca8eac7
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_31
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1548
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e6cf383b0eae43b442f97a9069fb2
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_32
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1528
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d84a372feafe44baf072d2006db9bc
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_33
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1520
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cee2b8675121494ab59b7be81246110
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_34
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1557
+        width: 106
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9988e63abbeaa42a54800cc5885465
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_35
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1534
+        width: 99
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a91f3d3e1022941afdb933d97ed7ba
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_36
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1532
+        width: 100
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8021a14b4c0b64593ac91e2ee11c2a
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_37
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1472
+        width: 107
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d64e60322feb2741b05299b38dc9946
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_38
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1323
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c12aa45d720d04882a5c105bc9d1bd
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_39
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1321
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8fd4d9a763b1a439cc24a5e0c15bf4
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_40
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1320
+        width: 100
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3c6ed171bbcc4e8380f457d3b27cf
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_41
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1321
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84631eefe4bde7d4f9f83787fb001c8e
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_42
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1323
+        width: 133
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7b55243d44204f9daefec16667d8b
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_43
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1356
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b70d7dced03954abf2585452ab8cc5
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_44
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1333
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cd526747fb1fb47852a1f76c2ea9ba
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_45
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1340
+        width: 95
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a43261cf446d7b4c82084567e64ed22
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_46
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 1331
+        width: 103
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ba155f51fc2724a8460f188523275e
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1332
+        width: 98
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f43a2bf8c4810b4695af398f2ce8c92
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_48
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1334
+        width: 98
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ea700c11c125a4ead645fc8171b832
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_49
+      rect:
+        serializedVersion: 2
+        x: 1857
+        y: 1248
+        width: 103
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905f6a190a4fc9241a868bcc7f5ea76e
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_50
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1118
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a1a2c9a6b38ef47ba0c6d801c2dee5
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1116
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d5fc93020c0ee48a30ac2d07f93a84
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_52
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1108
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9139d677992dff24e9f6ff26fabe1cc8
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_53
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1108
+        width: 98
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3301cc26a8b84848a5e663010cf5302
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_54
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1122
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bb2f4cffccb7841a4f52d071aef878
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_55
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1120
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b6736815862954ab22dda241d4c30d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_56
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 1119
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91530771f65ca4ba344662a0129466
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_57
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 1132
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f6568d7a2e044b8befb2eceffc1e5
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_58
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1136
+        width: 91
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eff9d77cb257e4bad0eb8dc7cb7c85
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_59
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1135
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c273e5385b2d14bb6523da4a01a81a
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_60
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1119
+        width: 101
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b23f44c42ad344ab16e2f32e03ccbb
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_61
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1036
+        width: 101
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca677f32232babf4d9531e3268f47179
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 912
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43802ca4490378e4d8fb67e2ef3c1778
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_63
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 912
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f6b67eb254903419f247f2e760c3aa
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 905
+        width: 98
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3cb9d361c41bd48830535f332f68f8
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_65
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 905
+        width: 97
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8d8122d832a1a45a412f5d523f6e2f
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_66
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 912
+        width: 99
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606a001d8ed75ae499f985c5732cf0fc
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_67
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 915
+        width: 99
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27aa0db4d4cd06041bb5a0b25b113b90
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_68
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 914
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe926b61e9b6304fb4e4c6e8d05ea77
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_69
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 912
+        width: 72
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895bb324eedf2204bbff85e5223fc8a5
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_70
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 919
+        width: 89
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c60fabb2c6f4676408c999056fbc0cd8
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_71
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 948
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e54dda23192d594f8fd4c00edd6745a
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_72
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 932
+        width: 89
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa831ffca58ba04096375259a61cac2
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_73
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 844
+        width: 89
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfba6eb449385344b71690ad7ca39b3
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_74
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 708
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1115a5da4b438f448085129855d3482
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_75
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 707
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5936924870305cb4aae476315feab2fd
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_76
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 708
+        width: 99
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253d0814e2fd6d74f87773bebe6194f5
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_77
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 700
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d785df4c5acb24b9e9475e05d42cec
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_78
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 700
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e548eb1d831b63c4094207c80d8f98b4
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_79
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 700
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d6ffc6da3bcd04ca6bdac8dd5bb388
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_80
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 731
+        width: 72
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078bed96a5cc46947a6c66b119adbf4f
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_81
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 701
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75a9a27d69ebda448276175d552d2ec
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_82
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 716
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbeb6663886c477459b6545329699f3e
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_83
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 724
+        width: 106
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f1d7f809cd3246aa6f99de6247c1b
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_84
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 643
+        width: 104
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc5303adecc8d0499fd75c729037956
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 503
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f97bb06577618d4a878a1f58168e437
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 500
+        width: 100
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f08c24f88414e419eb4f45ad0bfdc1
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_87
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 508
+        width: 96
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18399bbfb8f6e60458fab1f126dc6990
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_88
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 510
+        width: 96
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e8d19d895a0046b08735ea48f3fd1
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_89
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 496
+        width: 100
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625a7fd22ed5b86408bc44e19ef9a2a6
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_90
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 496
+        width: 97
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13364fd1de020244870f0c37a050d1e
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_91
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 513
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b12e9c05126f9f498af5cd61229cc37
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_92
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 500
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac6e4ce577600d4ba5afab56ec2545d
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_93
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 524
+        width: 82
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba28b973c39a6745ad94dbfe7a9726b
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_94
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 519
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f8847d5da9ee3745a74d543854bbaff
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_95
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 438
+        width: 104
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac4b9cf944b4814f9d4cc199da51d30
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_96
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 298
+        width: 101
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1c34b7680f6c54d8dcd86fbc421d0e
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_97
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 297
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b57711c976c1b4885047b2150f844e
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_98
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 304
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ffc52df0da65034e8fdc2b64c40df1d
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_99
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 304
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7557bb2b11d071545b2c82434a78b7e0
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_100
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 291
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1892395a7a8ec2d45852d3f919fd521b
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_101
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 288
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13067adcac536a442ad1ee533d5482f4
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_102
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 303
+        width: 84
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe284618ec1869498145c4ccb0c7cb7
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_103
+      rect:
+        serializedVersion: 2
+        x: 1480
+        y: 303
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c309d472be237e1428ce61999ca525bf
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_104
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 316
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd798d1de36b9cb4abb973d1ca036ec5
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_105
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 309
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10d1984fa06ab4bab48e0199538be8
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_106
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 303
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eba2fb3100fcd4b95e8978e1799d4c
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_107
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 312
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f701b456ac11ce4e99de9457d6d1694
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_108
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 308
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf6f855d7823249b91639ae03e53f2
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_109
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 316
+        width: 96
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2599a4e2f86f5c649b743ce3d9d58342
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_110
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 239
+        width: 105
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c6535fda6328448ac5c03c0d09cf8c
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_111
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 100
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91937546f1c94c549bea5046d7f4f5d7
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_112
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 100
+        width: 99
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77fb339950baf2448e0596aac9351bc
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_113
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 89
+        width: 100
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1e762f0839a5343b66dfb41a6d188c
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_114
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 88
+        width: 102
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d716a9a7ced45d4889ccbe37db20139
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_115
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 84
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1845f2ccd3f72814d856e8c13a893649
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_116
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 84
+        width: 99
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aab2c3b57370bd40a7d5147763077ca
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_117
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 114
+        width: 77
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789181b2cce46c40977378daedd7942
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_118
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 127
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d96864e96609441aa1021976359bcc
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_119
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 120
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5d362b8b53c86439c8a9b4479471ff
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_120
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 116
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08644cda25e4d994eb99a2371404d5ad
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_121
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 104
+        width: 104
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4337702b2e186341b9ac4c0cd1573f0
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elvis_FaceAnimMap_122
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 24
+        width: 104
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef0baddeef248e4281fd05f4ea381ce
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 9be3ab4034eb64947b18a23d16daf633
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
