@@ -1,2 +1,2 @@
-# VFS2019
- Ejercicios en Unity realizados en Vancouver Film School en el curso introductorio para GamDesign
+# Unity Games
+The games listed in this repository were made in a one month intensive course at Vancouver Film School in the Game Design program in class with the professor Qhen Shaw.
