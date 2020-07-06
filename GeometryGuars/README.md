@@ -1,7 +1,7 @@
 # GeometryGuars
 This game mimics the basic gameplay of the Geometry Wars, published by Activision. The main objective is to shoot the spawning enemies to obtain the biggest score.
 * Three types of enemies (slow, regular and fast) randomly spawned with Gizmos with a safe distance form player.
-* A particle system that shows when an enemy is defeated.
+* A particle system that shows when either a bullet or the player collides with an enemy.
 * Difficulty (enemy spawning speed) increases exponentially according to an animation curve.
 * The glow in enemies, player, bullets and the pattern was applied through the default unity shaders.
 * The player movement is controlled by the acceleration and turning speed.
